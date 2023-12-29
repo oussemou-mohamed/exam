@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OUSSEMOU_Mohamed.iml" filepath="$PROJECT_DIR$/OUSSEMOU_Mohamed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-serviceee/gateway-service (1) (com.oussemou).iml" filepath="$PROJECT_DIR$/gateway-serviceee/gateway-service (1) (com.oussemou).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../reservation-Service/reservation-Service.iml" filepath="$PROJECT_DIR$/../reservation-Service/reservation-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resource-Service/resource-Service.iml" filepath="$PROJECT_DIR$/resource-Service/resource-Service.iml" />
+    </modules>
+  </component>
+</project>
